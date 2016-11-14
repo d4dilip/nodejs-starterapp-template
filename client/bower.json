@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-starterapp-template",
+  "description": "A simple nodejs starter app  template",
+  "main": "index.js",
+  "authors": [
+    "d4dilip <royalparinda11@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "app",
+    "starter",
+    "template"
+  ],
+  "homepage": "https://github.com/d4dilip/nodejs-starterapp-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.8"
+  }
+}

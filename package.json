@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-starterapp-template",
+  "version": "1.0.0",
+  "description": "A simple nodejs starter app  template ",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "app",
+    "starter",
+    "template"
+  ],
+  "author": "d4dilip <royalparinda11@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "connect-livereload": "^0.6.0",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "lodash": "^4.17.0",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.0"
+  }
+}
