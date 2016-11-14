@@ -1,8 +1,9 @@
 # nodejs-starterapp-template
 A simple nodejs starter app template
 
-# how to use ?
+# install packages ?
 run npm install
+# how to run ?
 npm start
 
 
